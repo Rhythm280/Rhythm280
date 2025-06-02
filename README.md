@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hey there, I'm Rhythm Gupta! ✨</h1>
-<p align="center">🌟 Passionate CS Student | MERN Enthusiast | Lifelong Learner 🌟</p>
+<p align="center">🌟 Passionate CS Student | Full Stack Developement | Lifelong Learner 🌟</p>
 
 ---
 
